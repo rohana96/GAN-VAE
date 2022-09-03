@@ -1,0 +1,14 @@
+.DS_Store
+gan/data_gan/
+gan/data_ls_gan/
+gan/data_wgan_gp/
+gan/datasets/
+gan/attributes.txt
+gan/cub_clean_custom_na.npz
+submission.pdf
+instructions.md
+*.idea
+venv
+vae/data/cifar-10-batches-py
+vae/data/cifar-10-python.tar.gz
+__pycache__
